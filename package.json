@@ -1,0 +1,22 @@
+{
+  "name": "semantic-rel-playground",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https:git@github.com:stopyransky/semantic-rel-playground.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "author": "Karol Stopyra <karol.stopyra@gmail.com> (http://twitter.com/stopyransky)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.2.1"
+  }
+}
